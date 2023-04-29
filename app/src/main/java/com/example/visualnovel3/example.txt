@@ -1,0 +1,10 @@
+{
+  "dialog": "Моя визуальная новелла",
+  "firstButton": "Начать",
+  "secondButton": "",
+  "thirdButton": "",
+  "textField": false,
+  "firstButtonNext": "scene2",
+  "secondButtonNext": "scene2",
+  "thirdButtonNext": "scene2"
+}

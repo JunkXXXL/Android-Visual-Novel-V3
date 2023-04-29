@@ -1,0 +1,152 @@
+{
+  "scene1": {
+    "dialog": "Моя визуальная новелла",
+    "firstButton": "Начать",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene2",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene2": {
+    "dialog": "Привет! Меня зовут Кирюша. А тебя?",
+    "firstButton": "Подтвердить",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": true,
+    "firstButtonNext": "scene3",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene3": {
+    "dialog": "Отлично! Чем займёмся?",
+    "firstButton": "Пойдём на пробежку",
+    "secondButton": "Пойдём в поход",
+    "thirdButton": "Погуляем по полю",
+    "textField": false,
+    "firstButtonNext": "scene4",
+    "secondButtonNext": "scene5",
+    "thirdButtonNext": "scene6"
+  },
+  "scene4": {
+    "dialog": "Может пойдём домой?..",
+    "firstButton": "Да, и посмотрим фильм",
+    "secondButton": "Да, и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene7",
+    "secondButtonNext": "scene8",
+    "thirdButtonNext": "scene2"
+  },
+  "scene5": {
+    "dialog": "Как уютно... Но уже темнеет",
+    "firstButton": "Пойдём домой и посмотрим фильм",
+    "secondButton": "Пойдём домой и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene7",
+    "secondButtonNext": "scene8",
+    "thirdButtonNext": "scene2"
+  },
+  "scene6":
+  {
+    "dialog": "Тебе грустно... Пойдём домой?",
+    "firstButton": "Может посмотрим фильм?",
+    "secondButton": "Да и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene7",
+    "secondButtonNext": "scene8",
+    "thirdButtonNext": "scene2"
+  },
+  "scene7":
+  {
+    "dialog": "Как тебе фильм?",
+    "firstButton": "Мне понравился!",
+    "secondButton": "Не очень...",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene9",
+    "secondButtonNext": "scene10",
+    "thirdButtonNext": "scene2"
+  },
+  "scene8":
+  {
+    "dialog": "Получается очень красиво!",
+    "firstButton": "Да! Может посмотрим фильм?",
+    "secondButton": "Да! Давай сделаем костюмы!",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene7",
+    "secondButtonNext": "scene11",
+    "thirdButtonNext": "scene2"
+  },
+  "scene9":
+  {
+    "dialog": "Отлично! А теперь пора спать...",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene14",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene10":
+  {
+    "dialog": "Жаль... Тогда пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene14",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene11":
+  {
+    "dialog": "Мне нравится твой костюм.",
+    "firstButton": "Твой тоже очень красивый!",
+    "secondButton": "а мне, если честно, не очень нравится твой...",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene12",
+    "secondButtonNext": "scene13",
+    "thirdButtonNext": "scene2"
+  },
+  "scene12":
+  {
+    "dialog": "Спасибо! Пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene14",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene13":
+  {
+    "dialog": "Ничего, я не в обиде. Пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene14",
+    "secondButtonNext": "scene2",
+    "thirdButtonNext": "scene2"
+  },
+  "scene14":
+  {
+    "dialog": "Спасибо, что поиграли!",
+    "firstButton": "Пройти ещё раз",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": "scene1",
+    "secondButtonNext": "scene1",
+    "thirdButtonNext": "scene1"
+  }
+
+}

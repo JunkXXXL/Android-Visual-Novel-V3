@@ -1,0 +1,158 @@
+{
+  "scene": [
+    {
+    "dialog": "Моя визуальная новелла",
+    "firstButton": "Начать",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 2,
+    "secondButtonNext": 2,
+    "thirdButtonNext": 2,
+      "fon": "main_fon"
+    },
+    {
+      "dialog": "Привет! Меня зовут Кирюша. А тебя?",
+      "firstButton": "Подтвердить",
+      "secondButton": "",
+      "thirdButton": "",
+      "textField": true,
+      "firstButtonNext": 3,
+      "secondButtonNext": 2,
+      "thirdButtonNext": 2,
+      "fon": "kirusha"
+    },
+  {
+    "dialog": "Отлично! Чем займёмся?",
+    "firstButton": "Пойдём на пробежку",
+    "secondButton": "Пойдём в поход",
+    "thirdButton": "Погуляем по полю",
+    "textField": false,
+    "firstButtonNext": 4,
+    "secondButtonNext": 5,
+    "thirdButtonNext": 6,
+    "fon": "kirusha"
+  },
+  {
+    "dialog": "Может пойдём домой?..",
+    "firstButton": "Да, и посмотрим фильм",
+    "secondButton": "Да, и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 7,
+    "secondButtonNext": 8,
+    "thirdButtonNext": 2,
+    "fon": "third_fon"
+  },
+  {
+    "dialog": "Как уютно... Но уже темнеет",
+    "firstButton": "Пойдём домой и посмотрим фильм",
+    "secondButton": "Пойдём домой и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 7,
+    "secondButtonNext": 8,
+    "thirdButtonNext": 2,
+    "fon": "second_fon"
+  },
+  {
+    "dialog": "Тебе грустно... Пойдём домой?",
+    "firstButton": "Может посмотрим фильм?",
+    "secondButton": "Да и отпразднуем хэллоуин",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 7,
+    "secondButtonNext": 8,
+    "thirdButtonNext": 2,
+    "fon": "walking_fon"
+  },
+  {
+    "dialog": "Как тебе фильм?",
+    "firstButton": "Мне понравился!",
+    "secondButton": "Не очень...",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 9,
+    "secondButtonNext": 10,
+    "thirdButtonNext": 2,
+    "fon": "film_fon"
+  },
+  {
+    "dialog": "Получается очень красиво!",
+    "firstButton": "Да! Может посмотрим фильм?",
+    "secondButton": "Да! Давай сделаем костюмы!",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 7,
+    "secondButtonNext": 11,
+    "thirdButtonNext": 2,
+    "fon": "halloween_fon"
+  },
+  {
+    "dialog": "Отлично! А теперь пора спать...",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 14,
+    "secondButtonNext": 2,
+    "thirdButtonNext": 2,
+    "fon": "film_fon"
+  },
+  {
+    "dialog": "Жаль... Тогда пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 14,
+    "secondButtonNext": 2,
+    "thirdButtonNext": 2,
+    "fon": "film_fon"
+  },
+  {
+    "dialog": "Мне нравится твой костюм.",
+    "firstButton": "Твой тоже очень красивый!",
+    "secondButton": "а мне, если честно, не очень нравится твой...",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 12,
+    "secondButtonNext": 13,
+    "thirdButtonNext": 2,
+    "fon": "dress_fon"
+  },
+  {
+    "dialog": "Спасибо! Пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 14,
+    "secondButtonNext": 2,
+    "thirdButtonNext": 2,
+    "fon": "dress_fon"
+  },
+  {
+    "dialog": "Ничего, я не в обиде. Пойдём спать?",
+    "firstButton": "Да, уже поздно...",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 14,
+    "secondButtonNext": 2,
+    "thirdButtonNext": 2,
+    "fon": "halloween_fon"
+  },
+  {
+    "dialog": "Спасибо, что поиграли!",
+    "firstButton": "Пройти ещё раз",
+    "secondButton": "",
+    "thirdButton": "",
+    "textField": false,
+    "firstButtonNext": 1,
+    "secondButtonNext": 1,
+    "thirdButtonNext": 1,
+    "fon": "main_fon"
+  }
+    ]
+}
